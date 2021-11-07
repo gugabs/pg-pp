@@ -1,6 +1,8 @@
 # pg-pp3
 Criação e visualização de uma cena 3D utilizando Unity e Blender.
 
+<img src="https://i.ibb.co/fDFTpB1/cena.png" alt="Cena 3D em que um avião e um helicóptero voam na mesma direção."/>
+
 ## Especificações do Projeto
 
 <p align = "justify">
