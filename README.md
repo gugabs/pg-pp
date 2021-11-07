@@ -4,21 +4,29 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
 <img src="https://i.ibb.co/fDFTpB1/cena.png" alt="Cena 3D em que um avião e um helicóptero voam na mesma direção."/>
 
 ## Especificações do Projeto
-<p>
-  Projeto desenvolvido para curso de Processsamento gráfico por:
-  <ul>
-    <li>
-      Gustavo Barbosa Santos, <b>RA:759474</b>
-    </li>
-    <li>
-      Lucas Eduardo Pereira de Oliveira, <b>RA:760928</b>
-    </li>
-  </ul>
-</p>
+<p>Projeto desenvolvido para curso de Processsamento gráfico por:</p>
+
+<ul>
+  <li>
+    Gustavo Barbosa Santos - <b>RA: 759474</b>
+  </li>
+  <li>
+    Lucas Eduardo Pereira de Oliveira - <b>RA: 760928</b>
+  </li>
+</ul>
 
 <p align = "justify">
   Foram utilizados de forma majoritária 2 softwares, o <a href="https://www.blender.org/download/" target="_blank"><i>Blender</i></a> em sua versão 2.93.5 para a modelagem dos objetos e a <a href="https://unity3d.com/pt/get-unity/download" target="_blank"><i>Unity</i></a> em sua versão 2018.4.28f1 para a disposição dos objetos na cena e criação de uma interação através de scripts na linguagem C#.
 </p>
+
+<p><b>Passos para abrir o projeto:</b></p>
+
+<ol>
+  <li>Realizar o download do último <i>release</i></li>
+  <li>Extrair o código fonte do arquivo compactado</li>
+  <li>Abrir a aplicação Unity</li>
+  <li>Realizar a importação da pasta descompactada que contém o código fonte na Unity</li>
+</ol>
 
 ## Interação
 
