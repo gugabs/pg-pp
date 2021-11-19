@@ -57,6 +57,7 @@
      <Compile Include="Assets\scripts\CameraProjection.cs" />
      <Compile Include="Assets\scripts\CameraRotation.cs" />
      <Compile Include="Assets\scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\scripts\HelicopterMovement.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Guga/Desktop/pp3/pg-pp3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
