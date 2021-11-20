@@ -31,7 +31,7 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
 ## PP3
 
 <ol>
-  <li>Visualização de 1 objeto 3D por membro, redimensionando e posicionando cada objeto individualmente no ambiente virtual</li>
+  <li>Visualização de 2 objetos 3D, redimensionando e posicionando cada objeto individualmente no ambiente virtual</li>
   <li>Definição de pelo menos uma câmera</li>
 </ol>
 
