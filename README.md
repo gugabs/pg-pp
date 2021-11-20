@@ -64,3 +64,23 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
 <p align = "justify">
   Na composição da cena queríamos manter a naturalidade dos objetos, então para isso escolhemos a Projeção Perspectiva, então construímos com ambos os objetos de frente para câmera mas com pontos de fuga diferentes, para parecer que estão em direções diferentes, além disso aplicamos dois pontos de luz para melhorar a visualização dos objetos, outro motivo para utilizar este tipo de projeção é para não perder a perspectiva de tamanho ao se comparar um avião com um helicóptero.
 </p>
+
+## Movimentos:
+
+### Movimento 1: Avião
+
+<p align = "justify">
+Esse movimento simula um balanço no avião, para ele utilizamos uma rotação no eixo x em 40 quadros, até a metade a cada 10 quadros incrementamos o eixo x em 10, após a metade diminuímos o eixo x em 10, dessa forma ele tem um efeito de continuidade pois chegando no último quadro ele estará na mesma posição de início.
+</p>
+
+### Movimento 2: Hélices superior do helicóptero
+
+<p align = "justify">
+Nesse movimento tínhamos por objetivo reproduzir o giro da hélice assim como ocorre naturalmente nos helicópteros, para isso aplicamos uma rotação no eixo z, nele criamos uma animação com 30 quadros, onde incrementamos o eixo z em 45 a cada 5 quadros, então como gira em torno desse eixo conseguimos a sensação de continuidade no giro com esses valores.
+</p>
+  
+### Movimento 3: Hélices traseiras do helicóptero
+
+<p align = "justify">
+Do mesmo modo que a hélice superior o nosso objetivo nesse movimento era criar o efeito de giro, então criamos essa animação com 20 quadros, nela alteramos apenas o eixo x, a cada 10 quadros incrementamos em 90 esse eixo.
+</p>
