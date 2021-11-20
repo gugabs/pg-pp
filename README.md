@@ -70,17 +70,17 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
 ### Movimento 1: Avião
 
 <p align = "justify">
-Esse movimento simula um balanço no avião, para ele utilizamos uma rotação no eixo x em 40 quadros, até a metade a cada 10 quadros incrementamos o eixo x em 10, após a metade diminuímos o eixo x em 10, dessa forma ele tem um efeito de continuidade pois chegando no último quadro ele estará na mesma posição de início.
+  Esse movimento simula um balanço no avião, para ele utilizamos uma rotação no <b>eixo X</b> em 40 quadros, até a metade a cada 10 quadros incrementamos o <b>eixo X</b> em 10, após a metade diminuímos o <b>eixo X</b> em 10, dessa forma ele tem um efeito de continuidade pois chegando no último quadro ele estará na mesma posição de início.
 </p>
 
 ### Movimento 2: Hélices superior do helicóptero
 
 <p align = "justify">
-Nesse movimento tínhamos por objetivo reproduzir o giro da hélice assim como ocorre naturalmente nos helicópteros, para isso aplicamos uma rotação no eixo z, nele criamos uma animação com 30 quadros, onde incrementamos o eixo z em 45 a cada 5 quadros, então como gira em torno desse eixo conseguimos a sensação de continuidade no giro com esses valores.
+  Nesse movimento tínhamos por objetivo reproduzir o giro da hélice assim como ocorre naturalmente nos helicópteros, para isso aplicamos uma rotação no <b>eixo Z</b>, nele criamos uma animação com 30 quadros, onde incrementamos o <b>eixo Z</b> em 45 a cada 5 quadros, então como gira em torno desse eixo conseguimos a sensação de continuidade no giro com esses valores.
 </p>
   
 ### Movimento 3: Hélices traseiras do helicóptero
 
 <p align = "justify">
-Do mesmo modo que a hélice superior o nosso objetivo nesse movimento era criar o efeito de giro, então criamos essa animação com 20 quadros, nela alteramos apenas o eixo x, a cada 10 quadros incrementamos em 90 esse eixo.
+  Do mesmo modo que a hélice superior o nosso objetivo nesse movimento era criar o efeito de giro, então criamos essa animação com 20 quadros, nela alteramos apenas o <b>eixo X</b>, a cada 10 quadros incrementamos em 90 esse eixo.
 </p>
