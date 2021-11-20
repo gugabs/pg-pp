@@ -16,7 +16,7 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
 </ul>
 
 <p align = "justify">
-  Foram utilizados de forma majoritária 2 softwares, o <a href="https://www.blender.org/download/" target="_blank"><i>Blender</i></a> em sua versão 2.93.5 para a modelagem dos objetos e a <a href="https://unity3d.com/pt/get-unity/download" target="_blank"><i>Unity</i></a> em sua versão 2018.4.28f1 para a disposição dos objetos na cena e criação de uma interação através de scripts na linguagem C#.
+  Foram utilizados de forma majoritária 2 softwares, o <a href="https://www.blender.org/download/" target="_blank"><i>Blender</i></a> em sua versão 2.93.5 para a modelagem dos objetos e a <a href="https://unity3d.com/pt/get-unity/download" target="_blank"><i>Unity</i></a> em sua versão 2020.3.21f1 para a disposição dos objetos na cena e criação de uma interação através de scripts na linguagem C#.
 </p>
 
 <p><b>Passos para abrir o projeto:</b></p>
@@ -28,9 +28,27 @@ Criação e visualização de uma cena 3D utilizando Unity e Blender.
   <li>Realizar a importação da pasta descompactada que contém o código fonte na Unity</li>
 </ol>
 
+## PP3
+
+<ol>
+  <li>Visualização de 1 objeto 3D por membro, redimensionando e posicionando cada objeto individualmente no ambiente virtual</li>
+  <li>Definição de pelo menos uma câmera</li>
+</ol>
+
+## PP4
+
+<ol>
+  <li>Inclusão de pelo menos três movimentos, sendo pelo menos um deles dependente de outro</li>
+  <li>Definição de pelo menos duas câmeras</li>
+  <li>Alteração da projeção de uma das câmeras</li>
+  <li>Definição de interações que alteram câmeras e movimentos</li>
+</ol>
+
 ## Interação
 
-Visualização interativa da cena em 3D, para isso basta ativar o modo de jogo da Unity e utilizar as teclas `W` `A` `S` `D` do teclado para se movimentar através do ambiente e a manipulação do `eixo X` do mouse para rotacionar a câmera alterando assim o ângulo de visão da câmera. A interação foi baseada na movimentação de jogos <i>First Person Shooter (FPS)</i>.
+<p align = "justify">
+  Visualização interativa da cena em 3D, para isso basta ativar o modo de jogo da Unity e utilizar as teclas <b>W A S D</b> do teclado para se movimentar através do ambiente e a manipulação do <b>eixo X</b> do mouse para rotacionar a câmera alterando assim o ângulo de visão da câmera. A interação foi baseada na movimentação de jogos <i>First Person Shooter (FPS)</i>. Também é possível durante o modo jogo alterar a projeção da câmera principal de perspectiva (inicial) para ortográfica utilizando a tecla <b>P</b> do teclado, assim como é possível mudar a visualização da cena alternarnando entre a câmera principal e a câmera secundária localizada no helicóptero com a tecla <b>C</b>.
+</p>
 
 ## Principais Características
 
